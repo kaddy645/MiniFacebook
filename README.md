@@ -1,11 +1,8 @@
- # Final Project  - MiniFacebook
- ##### Course :-
- CPS 475/575 - Secure Application Development, Spring 2020 
- ##### Instructor :-
- Dr.Phu Phung
+ MiniFacebook
+
  ##### Team Members:-
-Huu Ha Nguyen - nguyenh17@udayton.edu - 
-Kartik Desai - desaik5@udayton.edu - 101628763
+Huu Ha Nguyen 
+Kartik Desai 
 
 
 
@@ -17,17 +14,7 @@ Kartik Desai - desaik5@udayton.edu - 101628763
 
 In this final project, we have applied secure programming principles and practices and web development technologies to develop a  simple yet secure “miniFacebook” web application with the all technical requirements. We have focused on all the aspects of project Design,Implemetaion and Mainly Security.
 
-##### Team Code Link:-
-https://bitbucket.org/secad-desaik5-nguyenh17/secad-project/src/master/
 
-
-##### Team Video Link:-
-https://drive.google.com/file/d/1k7QF63ozVEaK5LaUx7mepE_KbKHf-Wpg/view?usp=sharing
-
-
-##### Indivisual Links:-
-Summer - https://bitbucket.org/nguyenh17/secad-nguyenh17.git
-Kartik -  https://bitbucket.org/secad-desaik5-nguyenh17/secad-project/src/master/
 
 
 
@@ -156,7 +143,6 @@ function to check originality of user :-
     
 ## Credits :-
 
-#####  Dr. Phu Phung - For supporting us throughout the semester.
 #####  Team Members -  Summer and Kartik
 
 
